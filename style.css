@@ -1,0 +1,17 @@
+body{
+    background-position: center;
+    background-image: url("/Users/Admin/Desktop/h2o Website/wood.jpg");
+}
+h3{
+    background-color: grey;
+    width: 70px;
+}
+#services{
+    align-content: center;
+    width: 160px;
+    height: 90px;
+    padding: 10px;
+    border: 5px solid grey;
+    margin: 0;
+    background-color: azure;
+}
